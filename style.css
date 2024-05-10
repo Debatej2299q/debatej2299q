@@ -1,0 +1,142 @@
+/*{
+    margin: 0;
+    padding: 0;
+ }*/
+
+/*  body{
+    height: 100uh;
+    display: ;
+    justify-content: ;
+    align-items: ;
+    background: #eaeaff;
+}/*  */
+
+
+
+/* home, poems, novels, about us*/
+
+.container-bar{
+    background-color: #55eaff;
+      font-size: 20px;
+      margin: 0 auto;      
+      width: 100%;
+      length: 200;
+      text-align: center;
+      height: 40px;
+      justify-content: center;
+      align-items: center; 
+}
+a{
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
+
+
+/* search bar*/
+.box{
+    
+    height: 30px;
+    display: flex;
+    cursor: pointer;
+    padding: 10px 20px;
+    background: #ffff;
+    border-radius: 40px;
+    align-items: center;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+.box:hover input {
+    width: 160px
+}
+.box input{
+    width: 0;
+    outline: none;
+    border: none;
+    font-weight: 500;
+    transition: 0.8s;
+    background: transparent;
+}
+.box a.fas{
+    color: #15fff5;
+    font-size: 18px;
+}
+
+
+
+/* whole body in every html file */
+body{
+    background: #baff80;
+    
+}
+
+
+
+
+/* poems, novels etc etc */
+
+.book {
+      width: 80%;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffff;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      justify-content: center;
+      align-items: center;
+      display: center;
+    }
+    
+                          
+    .book_page {
+      margin-top: 20px;
+    }
+    
+    h1{
+        text-align: center;
+    }
+    
+    
+    pre{
+        text-align: center;
+    }
+    
+    .button_1{
+        align-items: center;       
+        height: 38px;
+        background: #e8491d;
+        border: 0;
+        padding-left: 25px;
+        padding-right: 25px;        
+        color: white;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    /* last */
+    
+    .end{
+        height: 26px;
+        background-color: white;
+    }
+    
+    
+    /* about */
+    
+    .about{
+        width: 90%;
+      margin: 0 auto;
+      padding: 10px;
+      background-color: #95ffe0;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     }
