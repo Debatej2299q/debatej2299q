@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debatej2299q" alt="debatej2299q" /></a> </p>
 
 - 🌱 I’m currently learning **Courses 🍒**
+- 🌱 I’m a creator of its own🍷
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
