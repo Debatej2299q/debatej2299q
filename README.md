@@ -21,7 +21,8 @@
   "focus": ["Full-Stack Automation", "Bot Ecosystems", "Client-Side Tools"],
   "stack": ["JavaScript", "Node.js", "Python", "Bash", "Shell Scripts"],
   "infrastructure": ["Vercel", "Cloudflare", "Render", "Kali NetHunter"]
-}
+} 
+```
 
 ### 🛠️ 02. Core Toolchain
 <div align="center">
