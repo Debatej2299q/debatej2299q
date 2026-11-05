@@ -23,7 +23,9 @@
   "infrastructure": ["Vercel", "Cloudflare", "Render", "Kali NetHunter"]
 }
 
-🛠️ 02. Core Toolchain
+
+
+### 🛠️ 02. Core Toolchain
 <div align="center">
 | Category | Technologies & Utilities |
 |---|---|
@@ -32,7 +34,7 @@
 | Cloud & Deployment | Vercel Cloudflare Render |
 | Tooling & Automation | WhatsApp Bots (Baileys) YouTube-i.js Custom Scripts |
 </div>
-📊 03. Telemetry
+### 📊 03. Telemetry
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Debatej2299q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f43f5e&text_color=94a3b8" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debatej2299q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="48%" />
