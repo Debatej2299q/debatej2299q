@@ -1,50 +1,46 @@
 <div align="center">
 
-<!-- Animated Header GIF Banner --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,100:18181b&height=180&section=header&text=Debatej%20Dutta&fontSize=42&fontColor=a1a1aa&fontAlignY=38&desc=Software%20Developer%20&%20Systems%20Automation&descSize=14&descAlignY=62&animation=fadeIn" width="100%" />
 
-👾 CONSOLE // DEBATEJ 👾
-╔══════════════════════════════════════════════════════════════════╗
-║  LEVEL: Artistic Developer | CLASS: Full-Stack | ALIGNMENT: Clean ║
-╚══════════════════════════════════════════════════════════════════╝
-<!-- Animated Capsule Badges --> <p align="center"> <a href="https://github.com/Debatej2299q"> <img src="https://img.shields.io/github/followers/Debatej2299q?label=Followers&logo=github&style=for-the-badge&color=00FF66&labelColor=101216" /> </a> <a href="https://github.com/Debatej2299q?tab=repositories"> <img src="https://img.shields.io/github/stars/Debatej2299q?label=Stars&logo=github&style=for-the-badge&color=FF007F&labelColor=101216" /> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Status-Available_for_hire-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101216" /> </a> </p>
+  <p>
+    <img src="https://img.shields.io/badge/Status-Building_Things-18181b?style=for-the-badge&logo=codeforces&logoColor=38bdf8" />
+    <img src="https://img.shields.io/badge/Environment-Linux_%2F_Termux-18181b?style=for-the-badge&logo=linux&logoColor=f43f5e" />
+    <img src="https://img.shields.io/badge/Vibe-Terminal_First-18181b?style=for-the-badge&logo=gnu-bash&logoColor=4ade80" />
+  </p>
 
 </div>
 
-⚡ terminal --run bio.sh
-#!/bin/bash
+---
 
-user="Debatej2299q"
-location="Earth // Online"
-current_focus="Building high-performance scalable systems"
-passions=["Open Source", "System Architecture", "Modern UX/UI", "AI/ML"]
+### ⚡ 01. System Overview
 
-echo "Welcome to $user's profile space."
-echo "Status: System operational. Ready for collaboration."
-🕹️ Skill Matrix & Arsenal
+```json
+{
+  "operator": "Debatej Dutta",
+  "workspace": "Mobile Terminal & Cloud Environments",
+  "focus": ["Full-Stack Automation", "Bot Ecosystems", "Client-Side Tools"],
+  "stack": ["JavaScript", "Node.js", "Python", "Bash", "Shell Scripts"],
+  "infrastructure": ["Vercel", "Cloudflare", "Render", "Kali NetHunter"]
+}
+
+🛠️ 02. Core Toolchain
 <div align="center">
-
-Domain	Technologies & Tools
-Frontend Craft	
-Backend Core	
-Data & Cloud	
+| Category | Technologies & Utilities |
+|---|---|
+| Languages | JavaScript Node.js Python Bash |
+| Runtime & Mobile | Termux Alpine Linux Acode Kali NetHunter |
+| Cloud & Deployment | Vercel Cloudflare Render |
+| Tooling & Automation | WhatsApp Bots (Baileys) YouTube-i.js Custom Scripts |
 </div>
-
-📊 Real-Time GitHub Analytics
+📊 03. Telemetry
 <div align="center">
-
-<!-- Animated Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debatej2299q&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-<table border="0"> <tr> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=Debatej2299q&show_icons=true&theme=synthwave&count_private=true&hide_border=true" width="100%" /> </td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debatej2299q&layout=compact&theme=synthwave&hide_border=true" width="100%" /> </td> </tr> </table>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Debatej2299q&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=f43f5e&text_color=94a3b8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debatej2299q&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="48%" />
 </div>
-
-🚀 Active WakaTime / Coding Trophies
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Debatej2299q&theme=synthwave&column=6&margin-w=15&margin-h=15" alt="Trophies" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Debatej2299q&theme=tokyonight&hide_border=true&background=0d1117&side_lbl=true&stroke=38bdf8" width="100%" />
 </div>
-
-<!-- Animated Footer Line --> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer Banner" />
-
-<div align="center"> <sub>Designed with ⚡ and Cyberpunk Vibes for <b>Debatej2299q</b></sub> </div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:18181b&height=60&section=footer" width="100%" />
+<p><sub>Designed with precision · Built for the terminal</sub></p>
+</div>
