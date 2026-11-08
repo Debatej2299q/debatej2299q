@@ -27,17 +27,11 @@
 ### 🛠️ 02. Core Toolchain
 <div align="center">
 | Category | Technologies & Utilities |
-
-|---|---|
-
+| --- | --- |
 | Languages | JavaScript Node.js Python Bash |
-
 | Runtime & Mobile | Termux Alpine Linux Acode Kali NetHunter |
-
 | Cloud & Deployment | Vercel Cloudflare Render |
-
 | Tooling & Automation | WhatsApp Bots (Baileys) YouTube-i.js Custom Scripts |
-
 </div>
 
 ### 📊 03. Telemetry
