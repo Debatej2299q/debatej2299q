@@ -17,10 +17,10 @@
 ```json
 {
   "operator": "Debatej Dutta",
-  "workspace": "Mobile Terminal & Cloud Environments",
-  "focus": ["Full-Stack Automation", "Bot Ecosystems", "Client-Side Tools"],
-  "stack": ["JavaScript", "Node.js", "Python", "Bash", "Shell Scripts"],
-  "infrastructure": ["Vercel", "Cloudflare", "Render", "Kali NetHunter"]
+  "workspace": "Linux & Cloud Environments",
+  "focus": ["Full-Stack Automation", "Web Development,"App Development", "Bot Ecosystems", "Client-Side Tools"],
+  "stack": ["JavaScript", "Node.js", "Python", "Bash", "Kotlin", "Shell Scripts"],
+  "infrastructure": ["Vercel", "Cloudflare", "Render", "Linux"]
 } 
 ```
 
