@@ -18,7 +18,7 @@
 {
   "operator": "Debatej Dutta",
   "workspace": "Linux & Cloud Environments",
-  "focus": ["Full-Stack Automation", "Web Development,"App Development", "Bot Ecosystems", "Client-Side Tools"],
+  "focus": ["Full-Stack Automation", "Web Development","App Development", "Bot Ecosystems", "Client-Side Tools"],
   "stack": ["JavaScript", "Node.js", "Python", "Bash", "Kotlin", "Shell Scripts"],
   "infrastructure": ["Vercel", "Cloudflare", "Render", "Linux"]
 } 
@@ -27,11 +27,17 @@
 ### 🛠️ 02. Core Toolchain
 <div align="center">
 | Category | Technologies & Utilities |
+
 |---|---|
+
 | Languages | JavaScript Node.js Python Bash |
+
 | Runtime & Mobile | Termux Alpine Linux Acode Kali NetHunter |
+
 | Cloud & Deployment | Vercel Cloudflare Render |
+
 | Tooling & Automation | WhatsApp Bots (Baileys) YouTube-i.js Custom Scripts |
+
 </div>
 
 ### 📊 03. Telemetry
